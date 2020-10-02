@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>Probando</title>
+</head>
+<body>
+	<h1>Nuevo archivo html</h1>
+</body>
+</html>
